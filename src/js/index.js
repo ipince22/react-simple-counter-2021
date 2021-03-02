@@ -12,7 +12,7 @@ import "../styles/index.scss";
 function SimpleCounter(props) {
 	return (
 		<div className="card text-center bg-dark text-primary">
-			<div className="d-flex justify-content-center">
+			<div className="d-flex  justify-content-center">
 				<div className="car-hearder">
 					<i className="far fa-clock" />
 				</div>
